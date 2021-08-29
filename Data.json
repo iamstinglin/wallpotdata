@@ -1,108 +1,108 @@
 [
     {
-        "title": "Test 1",
+        "title": "Light green",
         "category": "abstract",
         "creator": "Stinglin",
-        "description": "Description here1",
+        "description": "Description here 1",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/1.jpg",
         "free": false,
         "primary": "red"
     },
     {
-        "title": "Test 2",
+        "title": "Light coral color",
         "category": "photograph",
         "creator": "Panda",
-        "description": "Description here2",
+        "description": "Description here 2",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/2.jpg",
         "free": true,
         "primary": "orange"
     },
     {
-        "title": "Test 3",
+        "title": "Sexy Red",
         "category": "illustration",
         "creator": "Arul",
-        "description": "Description here3",
+        "description": "Description here 3",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/3.jpg",
         "free": true,
         "primary": "yellow"
     },
     {
-        "title": "Test 4",
+        "title": "Dark green",
         "category": "photograph",
         "creator": "Sujith",
-        "description": "Description here4",
+        "description": "Description here 4",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/4.jpg",
         "free": false,
         "primary": "green"
     },
     {
-        "title": "Test 5",
+        "title": "Beautiful Violet",
         "category": "abstract",
         "creator": "Bavith",
-        "description": "Description here5",
+        "description": "Description here 5",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/5.jpg",
         "free": false,
         "primary": "blue"
     },
     {
-        "title": "Test 6",
+        "title": "Pale yellow",
         "category": "illustration",
         "creator": "Justin",
-        "description": "Description here6",
+        "description": "Description here 6",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/6.jpg",
         "free": true,
         "primary": "violet"
     },
     {
-        "title": "Test 7",
+        "title": "Blue setting sun",
         "category": "abstract",
         "creator": "Bavith",
-        "description": "Description here6",
+        "description": "Description here 7",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im1.jpg",
         "free": false,
         "primary": "red"
     },
     {
-        "title": "Test 8",
+        "title": "Carrot",
         "category": "abstract",
         "creator": "Panda",
-        "description": "Description here6",
+        "description": "Description here 8",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im2.jpg",
         "free": true,
         "primary": "green"
     },
     {
-        "title": "Test 9",
+        "title": "Juice",
         "category": "photograph",
         "creator": "Ligin",
-        "description": "Description here6",
+        "description": "Description here 9",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im3.jpg",
         "free": false,
         "primary": "blue"
     },
     {
-        "title": "Test 10",
+        "title": "Chemical",
         "category": "abstract",
         "creator": "Abiraj",
-        "description": "Description here6",
+        "description": "Description here 10",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im4.jpg",
         "free": true,
         "primary": "violet"
     },
     {
-        "title": "Test 11",
+        "title": "Pinky ponky",
         "category": "photograph",
         "creator": "Panda",
-        "description": "Description here6",
+        "description": "Description here 11",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im5.jpg",
         "free": true,
         "primary": "orange"
     },
     {
-        "title": "Test 12",
+        "title": "Blue chemistry",
         "category": "abstract",
         "creator": "Mande poone",
-        "description": "Description here6",
+        "description": "Description here 12",
         "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im6.jpg",
         "free": false,
         "primary": "green"
