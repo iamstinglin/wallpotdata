@@ -4,7 +4,7 @@
         "category": "abstract",
         "creator": "Stinglin",
         "description": "Description here 1",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/1.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/1.jpg",
         "free": false,
         "primary": "red"
     },
@@ -13,7 +13,7 @@
         "category": "photograph",
         "creator": "Panda",
         "description": "Description here 2",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/2.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/2.jpg",
         "free": true,
         "primary": "orange"
     },
@@ -22,7 +22,7 @@
         "category": "illustration",
         "creator": "Arul",
         "description": "Description here 3",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/3.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/3.jpg",
         "free": true,
         "primary": "yellow"
     },
@@ -31,7 +31,7 @@
         "category": "photograph",
         "creator": "Sujith",
         "description": "Description here 4",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/4.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/4.jpg",
         "free": false,
         "primary": "green"
     },
@@ -40,7 +40,7 @@
         "category": "abstract",
         "creator": "Bavith",
         "description": "Description here 5",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/5.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/5.jpg",
         "free": false,
         "primary": "blue"
     },
@@ -49,7 +49,7 @@
         "category": "illustration",
         "creator": "Justin",
         "description": "Description here 6",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/6.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/6.jpg",
         "free": true,
         "primary": "violet"
     },
@@ -58,7 +58,7 @@
         "category": "abstract",
         "creator": "Bavith",
         "description": "Description here 7",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im1.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im1.jpg",
         "free": false,
         "primary": "red"
     },
@@ -67,7 +67,7 @@
         "category": "abstract",
         "creator": "Panda",
         "description": "Description here 8",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im2.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im2.jpg",
         "free": true,
         "primary": "green"
     },
@@ -76,7 +76,7 @@
         "category": "photograph",
         "creator": "Ligin",
         "description": "Description here 9",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im3.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im3.jpg",
         "free": false,
         "primary": "blue"
     },
@@ -85,7 +85,7 @@
         "category": "abstract",
         "creator": "Abiraj",
         "description": "Description here 10",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im4.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im4.jpg",
         "free": true,
         "primary": "violet"
     },
@@ -94,7 +94,7 @@
         "category": "photograph",
         "creator": "Panda",
         "description": "Description here 11",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im5.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im5.jpg",
         "free": true,
         "primary": "orange"
     },
@@ -103,7 +103,7 @@
         "category": "abstract",
         "creator": "Mande poone",
         "description": "Description here 12",
-        "url": "https://raw.githubusercontent.com/iamstinglin/WallPot/main/im6.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im6.jpg",
         "free": false,
         "primary": "green"
     }
