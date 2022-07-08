@@ -1,7 +1,7 @@
 [
     {
         "title": "Light green",
-        "category": "abstract",
+        "category": "Plain",
         "creator": "Stinglin",
         "description": "Description here 1",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/1.jpg",
@@ -10,7 +10,7 @@
     },
     {
         "title": "Light coral color",
-        "category": "photograph",
+        "category": "Plain",
         "creator": "Panda",
         "description": "Description here 2",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/2.jpg",
@@ -19,7 +19,7 @@
     },
     {
         "title": "Sexy Red",
-        "category": "illustration",
+        "category": "Plain",
         "creator": "Arul",
         "description": "Description here 3",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/3.jpg",
@@ -28,7 +28,7 @@
     },
     {
         "title": "Dark green",
-        "category": "photograph",
+        "category": "Plain",
         "creator": "Sujith",
         "description": "Description here 4",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/4.jpg",
@@ -37,7 +37,7 @@
     },
     {
         "title": "Beautiful Violet",
-        "category": "Sketch",
+        "category": "Plain",
         "creator": "Bavith",
         "description": "Description here 5",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/5.jpg",
@@ -46,7 +46,7 @@
     },
     {
         "title": "Pale yellow",
-        "category": "illustration",
+        "category": "Plain",
         "creator": "Justin",
         "description": "Description here 6",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/6.jpg",
@@ -55,7 +55,7 @@
     },
     {
         "title": "Blue setting sun",
-        "category": "abstract",
+        "category": "Illustration",
         "creator": "Bavith",
         "description": "Description here 7",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im1.jpg",
@@ -64,7 +64,7 @@
     },
     {
         "title": "Carrot",
-        "category": "abstract",
+        "category": "Illustration",
         "creator": "Panda",
         "description": "Description here 8",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im2.jpg",
@@ -73,34 +73,7 @@
     },
     {
         "title": "Juice",
-        "category": "photograph",
-        "creator": "Ligin",
-        "description": "Description here 9",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im3.jpg",
-        "free": false,
-        "primary": "blue"
-    },
-    {
-        "title": "Blue setting sun",
-        "category": "Clean",
-        "creator": "Bavith",
-        "description": "Description here 7",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im1.jpg",
-        "free": false,
-        "primary": "red"
-    },
-    {
-        "title": "Carrot",
-        "category": "Pencil",
-        "creator": "Panda",
-        "description": "Description here 8",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im2.jpg",
-        "free": true,
-        "primary": "green"
-    },
-    {
-        "title": "Juice",
-        "category": "Painting",
+        "category": "Illustration",
         "creator": "Ligin",
         "description": "Description here 9",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im3.jpg",
@@ -109,8 +82,8 @@
     },
     {
         "title": "Chemical",
-        "category": "abstract",
-        "creator": "Abiraj",
+        "category": "Science",
+        "creator": "Stinglin",
         "description": "Description here 10",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im4.jpg",
         "free": true,
@@ -118,7 +91,7 @@
     },
     {
         "title": "Pinky ponky",
-        "category": "photograph",
+        "category": "Minimal",
         "creator": "Panda",
         "description": "Description here 11",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im5.jpg",
@@ -127,7 +100,7 @@
     },
     {
         "title": "Blue chemistry",
-        "category": "abstract",
+        "category": "Science",
         "creator": "Mande poone",
         "description": "Description here 12",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im6.jpg",
