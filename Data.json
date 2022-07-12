@@ -106,5 +106,32 @@
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im6.jpg",
         "free": false,
         "primary": "green"
+    },
+    {
+        "title": "Chemical",
+        "category": "Science",
+        "creator": "Stinglin",
+        "description": "Description here 10",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im4.jpg",
+        "free": true,
+        "primary": "purple"
+    },
+    {
+        "title": "Pinky ponky",
+        "category": "Minimal",
+        "creator": "Panda",
+        "description": "Description here 11",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im5.jpg",
+        "free": true,
+        "primary": "pink"
+    },
+    {
+        "title": "Blue chemistry",
+        "category": "Science",
+        "creator": "Mande poone",
+        "description": "Description here 12",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im6.jpg",
+        "free": false,
+        "primary": "grey"
     }
 ]
