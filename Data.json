@@ -3,16 +3,14 @@
         "title": "Light green",
         "category": "Plain",
         "creator": "Stinglin",
-        "description": "Description here 1",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/1.jpg",
         "free": false,
-        "primary": "red"
+        "primary": "green"
     },
     {
         "title": "Light coral color",
         "category": "Plain",
-        "creator": "Panda",
-        "description": "Description here 2",
+        "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/2.jpg",
         "free": true,
         "primary": "orange"
@@ -20,17 +18,15 @@
     {
         "title": "Sexy Red",
         "category": "Plain",
-        "creator": "Arul",
-        "description": "Description here 3",
+        "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/3.jpg",
         "free": true,
-        "primary": "yellow"
+        "primary": "red"
     },
     {
         "title": "Dark green",
         "category": "Plain",
-        "creator": "Sujith",
-        "description": "Description here 4",
+        "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/4.jpg",
         "free": false,
         "primary": "green"
@@ -38,100 +34,66 @@
     {
         "title": "Beautiful Violet",
         "category": "Plain",
-        "creator": "Bavith",
-        "description": "Description here 5",
+        "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/5.jpg",
         "free": false,
-        "primary": "blue"
+        "primary": "violet"
     },
     {
         "title": "Pale yellow",
         "category": "Plain",
-        "creator": "Justin",
-        "description": "Description here 6",
+        "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/6.jpg",
         "free": true,
         "primary": "violet"
     },
     {
-        "title": "Blue setting sun",
-        "category": "Illustration",
-        "creator": "Bavith",
-        "description": "Description here 7",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im1.jpg",
-        "free": false,
-        "primary": "red"
-    },
-    {
-        "title": "Carrot",
-        "category": "Illustration",
-        "creator": "Panda",
-        "description": "Description here 8",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im2.jpg",
+        "title": "Grey Winter",
+        "category": "Moody",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/7.jpg",
         "free": true,
-        "primary": "green"
+        "primary": "grey"
     },
     {
-        "title": "Juice",
-        "category": "Illustration",
-        "creator": "Ligin",
-        "description": "Description here 9",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im3.jpg",
+        "title": "Eye cooling winter",
+        "category": "Moody",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/8.jpg",
         "free": false,
         "primary": "blue"
     },
     {
-        "title": "Chemical",
-        "category": "Science",
+        "title": "Warm winter",
+        "category": "Moody",
         "creator": "Stinglin",
-        "description": "Description here 10",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im4.jpg",
-        "free": true,
-        "primary": "violet"
-    },
-    {
-        "title": "Pinky ponky",
-        "category": "Minimal",
-        "creator": "Panda",
-        "description": "Description here 11",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im5.jpg",
-        "free": true,
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/9.jpg",
+        "free": false,
         "primary": "orange"
     },
     {
-        "title": "Blue chemistry",
-        "category": "Science",
-        "creator": "Mande poone",
-        "description": "Description here 12",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im6.jpg",
-        "free": false,
-        "primary": "green"
-    },
-    {
-        "title": "Chemical",
-        "category": "Science",
+        "title": "Beautiful blue moon",
+        "category": "Amoled",
         "creator": "Stinglin",
-        "description": "Description here 10",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im4.jpg",
-        "free": true,
-        "primary": "purple"
-    },
-    {
-        "title": "Pinky ponky",
-        "category": "Minimal",
-        "creator": "Panda",
-        "description": "Description here 11",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im5.jpg",
-        "free": true,
-        "primary": "pink"
-    },
-    {
-        "title": "Blue chemistry",
-        "category": "Science",
-        "creator": "Mande poone",
-        "description": "Description here 12",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/im6.jpg",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/10.jpg",
         "free": false,
+        "primary": "blue"
+    },
+    {
+        "title": "Grey home",
+        "category": "Amoled",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/11.jpg",
+        "free": true,
         "primary": "grey"
+    },
+    {
+        "title": "Red sun",
+        "category": "Amoled",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/12.jpg",
+        "free": false,
+        "primary": "red"
     }
+    
 ]
