@@ -32,12 +32,12 @@
         "primary": "green"
     },
     {
-        "title": "Beautiful Violet",
+        "title": "Beautiful purple",
         "category": "Plain",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/5.jpg",
         "free": false,
-        "primary": "violet"
+        "primary": "purple"
     },
     {
         "title": "Pale yellow",
@@ -81,7 +81,7 @@
     },
     {
         "title": "Grey home",
-        "category": "Amoled",
+        "category": "Moody",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/11.jpg",
         "free": true,
@@ -94,6 +94,54 @@
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/12.jpg",
         "free": false,
         "primary": "red"
+    },
+    {
+        "title": "Chemicals",
+        "category": "Minimal",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/13.jpg",
+        "free": false,
+        "primary": "red"
+    },
+    {
+        "title": "Blue moon",
+        "category": "Amoled",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/14.jpg",
+        "free": false,
+        "primary": "blue"
+    },
+    {
+        "title": "Carrot",
+        "category": "Funny",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/15.jpg",
+        "free": true,
+        "primary": "orange"
+    },
+    {
+        "title": "Juice",
+        "category": "Illustration",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/16.jpg",
+        "free": true,
+        "primary": "yellow"
+    },
+    {
+        "title": "Chemical tube",
+        "category": "Illustration",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/17.jpg",
+        "free": false,
+        "primary": "yellow"
+    },
+    {
+        "title": "Pinky",
+        "category": "Illustration",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/18.jpg",
+        "free": false,
+        "primary": "white"
     }
     
 ]
