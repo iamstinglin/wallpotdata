@@ -1,5 +1,13 @@
 [
     {
+        "title": "Empty boy",
+        "category": "Cartoons",
+        "creator": "Stinglin",
+        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/19.jpg",
+        "free": true,
+        "primary": "orange"
+    },
+    {
         "title": "Light green",
         "category": "Plain",
         "creator": "Stinglin",
