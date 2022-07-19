@@ -1,174 +1,187 @@
 [
     {
-        "title": "Empty boy",
-        "category": "Cartoons",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/19.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": true,
-        "primary": "orange"
-    },
-    {
-        "title": "Light green",
-        "category": "Plain",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/1.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "green"
-    },
-    {
-        "title": "Light coral color",
-        "category": "Plain",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/2.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": true,
-        "primary": "orange"
-    },
-    {
-        "title": "Sexy Red",
-        "category": "Plain",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/3.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": true,
-        "primary": "red"
-    },
-    {
-        "title": "Dark green",
-        "category": "Plain",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/4.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "green"
-    },
-    {
-        "title": "Beautiful purple",
-        "category": "Plain",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/5.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "purple"
-    },
-    {
-        "title": "Pale yellow",
-        "category": "Plain",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/6.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": true,
-        "primary": "yellow"
-    },
-    {
-        "title": "Grey Winter",
-        "category": "Moody",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/7.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": true,
-        "primary": "grey"
-    },
-    {
-        "title": "Eye cooling winter",
-        "category": "Moody",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/8.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "blue"
-    },
-    {
-        "title": "Warm winter",
-        "category": "Moody",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/9.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "orange"
-    },
-    {
-        "title": "Beautiful blue moon",
-        "category": "Amoled",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/10.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "blue"
-    },
-    {
-        "title": "Grey home",
-        "category": "Moody",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/11.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": true,
-        "primary": "grey"
-    },
-    {
-        "title": "Red sun",
-        "category": "Amoled",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/12.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "red"
-    },
-    {
-        "title": "Chemicals",
-        "category": "Minimal",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/13.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "red"
-    },
-    {
-        "title": "Blue moon",
-        "category": "Amoled",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/14.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "blue"
-    },
-    {
-        "title": "Carrot",
-        "category": "Funny",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/15.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": true,
-        "primary": "orange"
-    },
-    {
-        "title": "Juice",
-        "category": "Illustration",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/16.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": true,
-        "primary": "yellow"
-    },
-    {
-        "title": "Chemical tube",
-        "category": "Illustration",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/17.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "yellow"
-    },
-    {
-        "title": "Pinky",
-        "category": "Illustration",
-        "creator": "Stinglin",
-        "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/18.jpg",
-        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
-        "free": false,
-        "primary": "white"
+        "creators" : [
+            {
+                "name" : "Bavith",
+                "social" : "https://www.instagram.com/iambavith/",
+                "role" : "Designer / Developer",
+                "profileImg" : "https://twitter.com/iambavith/photo"
+
+            },
+            {
+                "name" : "Stinglin",
+                "social" : "https://www.instagram.com/stinglin_2k_man/",
+                "role" : "Designer",
+                "profileImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg"
+
+            },
+            {
+                "name" : "Abiraj",
+                "social" : "https://www.instagram.com/stinglin_2k_man/",
+                "role" : "Designer",
+                "profileImg" : "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg"
+
+            }
+        ],
+
+
+
+
+        "wallpapers" : [
+            {
+                "title": "Empty boy",
+                "category": "Cartoons",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/19.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Light green",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/1.jpg",
+                "free": false,
+                "primary": "green"
+            },
+            {
+                "title": "Light coral color",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/2.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Sexy Red",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/3.jpg",
+                "free": true,
+                "primary": "red"
+            },
+            {
+                "title": "Dark green",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/4.jpg",
+                "free": false,
+                "primary": "green"
+            },
+            {
+                "title": "Beautiful purple",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/5.jpg",
+                "free": false,
+                "primary": "purple"
+            },
+            {
+                "title": "Pale yellow",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/6.jpg",
+                "free": true,
+                "primary": "yellow"
+            },
+            {
+                "title": "Grey Winter",
+                "category": "Moody",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/7.jpg",
+                "free": true,
+                "primary": "grey"
+            },
+            {
+                "title": "Eye cooling winter",
+                "category": "Moody",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/8.jpg",
+                "free": false,
+                "primary": "blue"
+            },
+            {
+                "title": "Warm winter",
+                "category": "Moody",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/9.jpg",
+                "free": false,
+                "primary": "orange"
+            },
+            {
+                "title": "Beautiful blue moon",
+                "category": "Amoled",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/10.jpg",
+                "free": false,
+                "primary": "blue"
+            },
+            {
+                "title": "Grey home",
+                "category": "Moody",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/11.jpg",
+                "free": true,
+                "primary": "grey"
+            },
+            {
+                "title": "Red sun",
+                "category": "Amoled",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/12.jpg",
+                "free": false,
+                "primary": "red"
+            },
+            {
+                "title": "Chemicals",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/13.jpg",
+                "free": false,
+                "primary": "red"
+            },
+            {
+                "title": "Blue moon",
+                "category": "Amoled",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/14.jpg",
+                "free": false,
+                "primary": "blue"
+            },
+            {
+                "title": "Carrot",
+                "category": "Funny",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/15.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Juice",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/16.jpg",
+                "free": true,
+                "primary": "yellow"
+            },
+            {
+                "title": "Chemical tube",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/17.jpg",
+                "free": false,
+                "primary": "yellow"
+            },
+            {
+                "title": "Pinky",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/18.jpg",
+                "free": false,
+                "primary": "white"
+            }
+        ]
     }
+    
     
 ]
