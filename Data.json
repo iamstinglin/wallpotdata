@@ -4,6 +4,7 @@
         "category": "Cartoons",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/19.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": true,
         "primary": "orange"
     },
@@ -12,6 +13,7 @@
         "category": "Plain",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/1.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "green"
     },
@@ -20,6 +22,7 @@
         "category": "Plain",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/2.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": true,
         "primary": "orange"
     },
@@ -28,6 +31,7 @@
         "category": "Plain",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/3.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": true,
         "primary": "red"
     },
@@ -36,6 +40,7 @@
         "category": "Plain",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/4.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "green"
     },
@@ -44,6 +49,7 @@
         "category": "Plain",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/5.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "purple"
     },
@@ -52,6 +58,7 @@
         "category": "Plain",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/6.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": true,
         "primary": "yellow"
     },
@@ -60,6 +67,7 @@
         "category": "Moody",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/7.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": true,
         "primary": "grey"
     },
@@ -68,6 +76,7 @@
         "category": "Moody",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/8.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "blue"
     },
@@ -76,6 +85,7 @@
         "category": "Moody",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/9.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "orange"
     },
@@ -84,6 +94,7 @@
         "category": "Amoled",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/10.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "blue"
     },
@@ -92,6 +103,7 @@
         "category": "Moody",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/11.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": true,
         "primary": "grey"
     },
@@ -100,6 +112,7 @@
         "category": "Amoled",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/12.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "red"
     },
@@ -108,6 +121,7 @@
         "category": "Minimal",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/13.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "red"
     },
@@ -116,6 +130,7 @@
         "category": "Amoled",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/14.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "blue"
     },
@@ -124,6 +139,7 @@
         "category": "Funny",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/15.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": true,
         "primary": "orange"
     },
@@ -132,6 +148,7 @@
         "category": "Illustration",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/16.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": true,
         "primary": "yellow"
     },
@@ -140,6 +157,7 @@
         "category": "Illustration",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/17.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "yellow"
     },
@@ -148,6 +166,7 @@
         "category": "Illustration",
         "creator": "Stinglin",
         "url": "https://raw.githubusercontent.com/iamstinglin/wallpotdata/main/18.jpg",
+        "creatorLink" : "https://www.instagram.com/stinglin_2k_man/",
         "free": false,
         "primary": "white"
     }
